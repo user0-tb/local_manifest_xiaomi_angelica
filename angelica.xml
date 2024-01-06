@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-17.1" />
+  <project name="rama982/kernel_xiaomi_angelica" path="kernel/xiaomi/angelica" remote="github" revision="lineage-17.1" />
+  <project name="AndroidBlobs/vendor_xiaomi_angelica" path="vendor/xiaomi" remote="github" revision="lineage-17.1" />
+</manifest>
